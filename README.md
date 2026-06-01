@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm gcp737 👋
 
-<!--
-**gcp737/gcp737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Seasoned developer learning Git & GitHub
+- 🌱 Currently working through an 8-day GitHub learning plan
+- 🚀 Building projects and exploring open source
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Git version control
+- GitHub collaboration workflow
+- Branches, Pull Requests & Merge conflicts
+- GitHub Pages & Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Repositories
+- [project1](https://github.com/gcp737/project1) 
+  — My first GitHub learning repository
+
+## GitHub Stats
+![gcp737's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcp737&show_icons=true)
+
+## Connect
+- GitHub: [@gcp737](https://github.com/gcp737)
